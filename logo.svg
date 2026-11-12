@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 252 80" width="252" height="80" role="img" aria-label="LucroFeX">
+  <defs>
+    <linearGradient id="iconGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A56FF"/>
+      <stop offset="100%" stop-color="#38BEFF"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C9A84C"/>
+      <stop offset="100%" stop-color="#F0D080"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="8" width="64" height="64" rx="16" fill="url(#iconGrad)"/>
+  <circle cx="56" cy="15" r="5" fill="url(#goldGrad)"/>
+
+  <text x="12" y="53" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" fill="#FFFFFF">L</text>
+  <text x="31" y="53" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" fill="#F2D98C">F</text>
+
+  <text x="80" y="50" font-family="Helvetica Neue, Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.8"><tspan fill="#12161D">Lucro</tspan><tspan fill="#A8872F">FeX</tspan></text>
+  <rect x="80" y="58" width="56" height="2" rx="1" fill="#A8872F" opacity="0.45"/>
+</svg>
